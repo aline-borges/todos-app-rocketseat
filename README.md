@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="256" height="256" src="https://github.com/aline-borges/todos-app-rocketseat/blob/master/img/logo.png?raw=true">
+  <img width="256" height="256" src="https://github.com/aline-borges/todos-rocketseat/blob/master/img/logo.png?raw=true">
 </p>
 
-# Todos App Project
+# Todos Project
 
 This is a Rocketseat project that creates a task list.
 
@@ -23,4 +23,4 @@ Project only contains static files and no dependencies. Just need to clone the p
 
 
 ## Demo
-<a href="https://aline-borges-doe.netlify.com//">Todos Project</a>
+<a href="https://aline-borges-todos.netlify.com///">Todos Project</a>
