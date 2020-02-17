@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://github.com/aline-borges/doe-rocketseat/blob/master/img/logo.png?raw=true">
+  <img width="256" height="256" src="https://github.com/aline-borges/todos-app-rocketseat/blob/master/img/logo.png?raw=true">
 </p>
 
 # Todos App Project
